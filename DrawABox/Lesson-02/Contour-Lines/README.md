@@ -1,6 +1,3 @@
-# 2021-LA-12
-December 2021 Line Art Exercises Archive
-
 # Line-Art-Exercises-Template
 Line-Art-Exercises-Template
 
